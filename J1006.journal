@@ -34,3 +34,15 @@ For file1 "This is a new line" is listed to have been added while in file2 "This
 
 5.1
 Git diff shows the differences between the working directory and repository while diff --cached shows the differences between the staging area and repository. Since all changes were most recently committed, both commands returned nothing.
+
+What did I learn? What is the "big idea"?
+I learned about source control and various commands to effectively utilize the concept. The big idea is that by using source control we can collaborate on code effectively with other people and also keep track of the history of our files in case a mistake was made or certain lines need to be copied.
+
+What challenges did I encounter?
+One challenge I encountered was remembering the various stages and also remembering what stages each command interacts with.
+
+How could this experience be improved?
+This experience could be improved by adding real life examples that apply to using git source control.
+
+Free Reflection: How has what I've learned impacted my thinking?
+Using a whole new type of file management system just to make collaborating easier wasn't something I would ever think of so learning about git really opened my eyes and made me consider crucial but forgotten things in life such as learning to work effectively with other people.
