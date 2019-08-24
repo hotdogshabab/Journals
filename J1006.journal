@@ -1,0 +1,36 @@
+Shabab Haque
+Journal for W1006
+23-Aug-2019
+
+I received assistance from: NO ONE
+I assisted: NO ONE
+
+1.1
+Git is communicating to you a list of the commit messages.
+
+1.2
+Both the git log and the git commit commands both involve showing commit messages. Git commit commits everything in the staging area and shows the commit committed while git log shows a list of the commit messages.
+
+1.3
+I think that this certain situation occurs because it is easier for the programmer to effectively work on the repository using the two commands in specific ways. Using git commit he can push changes onto the repository and document them while using git log he can keep track of all the changes he made simply.
+
+2.1
+They are both displayed in red text. File1 is marked as modified while file2 isn't. They are also in different sections.
+
+2.2
+They are displayed in different sections. File1 is in the section titled "Changes not stage for commit" while file2 is under the "Untracked files" section. This is because while both files were modified, only changes in file1 were noticed because the file was added to be tracked while file2 was not.
+
+3.1
+They are both in the same section and in green text.
+
+3.2
+Both files are in green text and in the same section titled "Changes to be committed." File1 is marked as modified while file1 is marked as a new file.
+
+4.1
+Two files are listed as having been changed.
+
+4.2
+For file1 "This is a new line" is listed to have been added while in file2 "This is a new line in a new file" is listed to have been added. The additions have been shown in a green text.
+
+5.1
+Git diff shows the differences between the working directory and repository while diff --cached shows the differences between the staging area and repository. Since all changes were most recently committed, both commands returned nothing.

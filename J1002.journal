@@ -1,0 +1,54 @@
+Shabab Haque
+Journal for W1002
+19-Aug-2019
+
+I received assistance from: NO ONE
+I assisted: NO ONE
+
+1.1
+Google drive and canvas are two examples of a client-server model.
+
+2.1
+Yes because different users will inevitably create files of the same name. If they couldn’t, they would have to unnecessarily lengthen the name of a file.
+
+3.1
+Because there is only one home directory and it makes it easier to reference.
+
+4.1
+The prompt adds the file path after the tilde. It’s useful when you want to go to a specific file from your current location.
+
+5.1
+When you press the up arrow key, it goes to your previous command
+
+5.2
+When you press the down arrow key it goes in the opposite direction towards your most recent command.
+
+6.1
+No because it was redirected to out.txt.
+
+7.1
+ls just lists out the immediate subdirectories while tree shows all the files down from the current location.
+
+7.1
+You choose ls to see the files in your current directory while you use tree to view all the files in the current and subdirectories.
+
+8.1
+To start executing jobs after a specified amount of time.
+
+8.2
+You can create a couple of jobs and then wait and see if they are being executed after a specified amount of time.
+
+9.1
+It runs the job in the background.
+
+9.2
+I think it means to run on a separate environment than the one the client is using.
+
+9.3
+The job number compared to the total jobs list.
+
+10.1
+The sleep jobs start to disappear from the jobs list.
+
+10.2
+The jobs finish and as a result disappear from the active jobs list.
