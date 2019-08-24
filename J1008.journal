@@ -1,0 +1,39 @@
+Shabab Haque
+Journal for W1008
+23-Aug-2019
+
+I received assistance from: NO ONE
+I assisted: NO ONE
+
+1.1
+Outside of merlin is printed as the current location.
+
+2.1
+Merlin root is printed.
+
+2.2
+It provides what date missions are eligible, accepted, due, expired, completed.
+
+3.1
+New missions appeared as directories.
+
+3.2
+The prepare command most likely pulls available challenges from merlin into the current merlin directory.
+
+4.1
+Nothing changed.
+
+4.2
+The prepare command creates copies of directories and the files immediately in them. Depending on where you are in the mission manager it may either create missions or challenges.
+
+What did I learn? What is the "big idea"?
+I learned how to effectively utilize the Merlin Mission Manager in order to complete my assignments. The big idea is using MMM to complete missions in the best way possible and learning more about each commands.
+
+What challenges did I encounter?
+Figuring out why exactly the merlin prepare function even exists instead of just creating all the files.
+
+How could this experience be improved?
+By practicing each of the commands and learning why they are needed and their ultimate purpose.
+
+Free Reflection: How has what I've learned impacted my thinking?
+It made me more consider why things such as programs or structures are structured the way the are (what their purpose is).
